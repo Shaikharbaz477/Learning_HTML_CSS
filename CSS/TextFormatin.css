@@ -1,0 +1,17 @@
+div{
+    background-color: coral;
+    padding: 10px 25px;
+    margin: 40px;
+    box-shadow: 0 0 10px red;
+    border: 5px solid black;
+}
+h2{
+    color: azure;
+    background-color: black;
+    padding: 10px;
+    width: 200px;
+    margin-left: 50px;
+    border-radius: 20px;
+    box-shadow:0 0 20px blue;
+}
+

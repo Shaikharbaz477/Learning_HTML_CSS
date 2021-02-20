@@ -1,0 +1,77 @@
+body{
+    background-image: url(./image/Bg1.jpg);
+    /* background-attachment: fixed; */
+    /* background-size: cover; */
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+}
+nav{
+    padding: 18px 25px;
+    box-shadow: 0 0 10px black;
+    border-radius: 10px;
+    margin: 10px;
+}
+nav a{
+    text-decoration: none;
+    padding: 10px 25px;
+    color: rgb(238, 9, 9);
+}
+a:hover{
+    color: rgb(221, 202, 188);
+    background: rgb(14, 13, 13);
+    border-radius: 10px;
+}
+
+h2{
+    box-shadow: 0 0 10px black;
+    padding: 10px;
+    border-radius: 20px;
+    width: 200px;
+    background-color: rgb(238, 163, 136);
+}
+iframe{
+    border-radius: 20px;
+    box-shadow: 20px;
+    border: 2px solid black;
+}
+figure{
+  display: inline-block;
+}
+figcaption{
+    text-align: center;
+    font-size: 25px;
+    background-color: rgb(247, 168, 140);
+    border-radius: 20px;
+}
+fieldset{
+    background-image: url(./image/jk_logo-removebg-preview\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: cornflowerblue;
+    margin-top: 20px;
+}
+
+section{
+    background-color: rgb(228, 165, 70);
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid rgb(241, 175, 175);
+}
+section article{
+    background: linear-gradient(45deg, gray, red);
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid rgb(89, 89, 218);
+}
+footer{
+    background: rgb(104, 131, 58);
+    padding: 20px;
+    text-align: center;
+}
+.img-marquee{
+    height: 100px;
+}
+.arbaz:hover{
+    transform: rotate(-5deg) translateY(1.3);
+}

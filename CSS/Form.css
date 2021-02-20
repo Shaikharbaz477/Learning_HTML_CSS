@@ -1,0 +1,29 @@
+body{
+    background-image: url(./image/Bg1.jpg);
+    background-size: cover;
+}
+.form{
+    background-color: rgba(155, 152, 148,.3);
+    box-shadow: 0 0 10px black;
+    width: 300px;
+    height: 400px;
+    padding: 15px;
+    text-align: center;
+    margin: 150px auto;
+    border-radius: 50px;
+}
+img{
+    width: 180px;
+    height: 180px;
+    padding-bottom: 150px;
+    margin: -100px;
+h2{
+    color: gold;
+    margin: 10px;
+}
+input{
+    margin: 5px;
+    font-size: 15px;
+    border-radius: 10px;
+    outline: none;
+}

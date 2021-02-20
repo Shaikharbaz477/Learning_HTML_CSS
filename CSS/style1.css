@@ -1,0 +1,79 @@
+body{
+    background-image: url(./image/01.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+/* ------Styling nav------ */
+nav{
+    padding: 18px 25px;
+    box-shadow: 0 0 10px black;
+    border-radius: 10px;
+}
+/* -------Stylin anchor------- */
+nav a{
+    text-decoration: none;
+    padding: 18px 25px;
+    color: rgba(228, 13, 13, 0.836);
+}
+a:hover{
+    color: black;
+    background: white;
+    border-radius: 10px;
+}
+/* ------Styling Heading------- */
+h2{
+    background-color: rgb(194, 163, 28);
+    width: 200px;
+    padding: 10px;
+    border-radius: 15px;
+    border-bottom: 5px double black;
+}
+div{
+    margin-top: 10%;
+}
+
+/* ------styling para1----- */
+.para1{
+    background-image: url(./image/02.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 18px;
+    color: burlywood;
+    border-radius: 20px;
+    box-shadow: 10px 10px 0 rgb(29, 28, 28);
+    text-align: justify;
+}
+
+.para2{
+    background-image: url(./image/0.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 18px 25px;
+    border-radius: 60px 5px;
+    text-align: justify;
+    background-color: rgb(247, 147, 75);
+    background-position: center;
+}
+h1{
+    background-color: blue;
+    width: 200px;
+    border-radius: 10px;
+    margin: 20px 30px 40px 50px;
+    border-bottom: 5px double green;
+    padding: 10px;
+}
+.para3{
+    background-color: blueviolet;
+    padding: 18px 25px;
+    text-align: justify;
+    border-radius: 10px 50px 30px 20px;
+    margin: 20px 30px 40px 10px;
+}
+
+
+
+
+
+
+
